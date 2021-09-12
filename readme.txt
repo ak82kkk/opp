@@ -1,0 +1,1 @@
+The pre-install images have been deprecated in favor of using this guide - https://docs.openmediavault.org/en/5.x/new_user_guide/newuserguide.html
